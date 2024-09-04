@@ -1,7 +1,3 @@
-Your markdown text is mostly clear and well-structured, but there are a few grammatical errors and minor improvements that can be made for clarity and consistency. Here's the revised version:
-
----
-
 # Week 2 - Halfday 1
 
 ## Missions & Activities:
