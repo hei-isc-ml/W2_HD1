@@ -1,4 +1,4 @@
-# Week 2 - Halfday 1
+ # Week 2 - Halfday 1
 
 ## Missions & Activities:
 
